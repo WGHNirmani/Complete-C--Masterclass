@@ -1,0 +1,10 @@
+Quiz 2: Understanding Type Conversion in C#
+
+1. What does the int.Parse() method do?
+    Converts a string to an integer
+
+2. Which of the following will throw an error?
+    int.Parse("Hello")
+
+3. Why do we use type conversion?
+    To ensuer variables match the expected data types

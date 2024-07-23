@@ -1,0 +1,41 @@
+Naming Conventions in C#
+
+  Camel Case
+    Camel case is a naming convention where the first letter of the first word is lowercase, and the first letter of each subsequent word is capitalized. This is often used for variable and method names.
+    Example:
+    int myVariable;
+
+  Pascal Case
+    Pascal case is a naming convention where the first letter of each word is capitalized. This is commonly used for class and namespace names.
+    Example:
+    public class MyClass {
+    }
+
+  Snake Case
+    Snake case is a naming convention where words are seperated by underscores. This convention is not used in C# but is used in other programming languages like Python.
+      Example:
+      int my_variable;
+
+Naming Conventions for Classes, Methods, and Variables
+
+  1. Classes
+      Class names should be in Pascal case, starting with an uppercase letter. They should be descriptive and represent the purpose of the class.
+
+  2. Methods
+      Method names should also be in Pascal case, starting with an uppercase letter. They should be verb based and describe the action the method performs.
+
+  3. Variables
+      variable namesshould be in camel case, starting with a lowercase letter. They should be concise and meaningful, conveying the purpose of the variable.
+
+Best Practices for Consistent and Readable C# Code
+  Clarity
+    User clear, descriptive names that convey the purpose of the code element.
+
+  Consistency
+    Adhere to a consistent naming convention throught the codebase.
+
+  Collaboration
+    Follow established team or company coding standards to facilitate colloboration.
+
+  Maintainability
+    Prioratize readability and understandability to make the code easier to maintain.

@@ -1,0 +1,33 @@
+## Coding Standards
+  set of guidelines, best practices and programming styles that developers followed when writing source code for a project.
+
+## Parts of Coding Standards
+  * Reasonable Variable Name
+    int age = 22;
+    int userAge = 35;
+
+  * Proper Method Name
+    void CheckInternetConnection(){
+      //fancy networking code
+    }
+
+  * Comments
+    //this is a comment
+
+## Commenting Styles
+  * Single-Line Comments
+      //a bool to check if user is logged in
+      bool isUserLoggedIn = true;
+
+  * Multiline Comments
+    /*these methods are respomsible for storing user data and connecting to the database.*/
+
+  * XML documentation comments
+    ///<summary>
+    //This method is very cool
+    ///</summary>
+    void CoolMethod(){
+      //cool code
+    }
+
+

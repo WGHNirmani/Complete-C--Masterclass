@@ -1,7 +1,7 @@
-## Coding Standards
+Coding Standards
   set of guidelines, best practices and programming styles that developers followed when writing source code for a project.
 
-## Parts of Coding Standards
+Parts of Coding Standards
   * Reasonable Variable Name
     int age = 22;
     int userAge = 35;
@@ -14,7 +14,7 @@
   * Comments
     //this is a comment
 
-## Commenting Styles
+Commenting Styles
   * Single-Line Comments
       //a bool to check if user is logged in
       bool isUserLoggedIn = true;
